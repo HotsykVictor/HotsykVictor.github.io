@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/HotsykVictor.github.io/static/css/main.f859ed72.css",
-    "main.js": "/HotsykVictor.github.io/static/js/main.8900c00e.js",
-    "index.html": "/HotsykVictor.github.io/index.html",
-    "main.f859ed72.css.map": "/HotsykVictor.github.io/static/css/main.f859ed72.css.map",
-    "main.8900c00e.js.map": "/HotsykVictor.github.io/static/js/main.8900c00e.js.map"
+    "main.css": "/static/css/main.f859ed72.css",
+    "main.js": "/static/js/main.8900c00e.js",
+    "index.html": "/index.html",
+    "main.f859ed72.css.map": "/static/css/main.f859ed72.css.map",
+    "main.8900c00e.js.map": "/static/js/main.8900c00e.js.map"
   },
   "entrypoints": [
     "static/css/main.f859ed72.css",
